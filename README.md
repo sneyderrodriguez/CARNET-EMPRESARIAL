@@ -72,7 +72,7 @@ proyecto/
 
 ## 🔮 Mejoras futuras
 
-- Agregar landing page
+- visualizar 1 sola cara de la card a la vez
 
 ---
 
