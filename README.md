@@ -66,7 +66,7 @@ proyecto/
 ## 📸 Capturas de pantalla
 
 
-![Texto alternativo](https://i.ibb.co/TBRwrZMJ/Apariencia-Elfo-AI.png)
+![Texto alternativo](https://i.ibb.co/b5sTbgKM/Card-Identificacion.png)
 
 ---
 
