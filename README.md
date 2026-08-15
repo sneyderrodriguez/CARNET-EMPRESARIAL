@@ -40,7 +40,7 @@ Este proyecto consiste en la elaboración de un carnet digital empresarial.
 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/SneyderRodriguez/SNEYDER-RODRIGUEZ-DELGADILLO-INTERACCION-COMPONENTES-HTML.git
+git clone https://github.com/SneyderRodriguez/CARNET-EMPRESARIAL.git
 ```
 
 2. Ejecutar
@@ -66,7 +66,7 @@ proyecto/
 ## 📸 Capturas de pantalla
 
 
-![Texto alternativo](https://i.ibb.co/b5sTbgKM/Card-Identificacion.png)
+![Carnet-Empresarial.png](https://i.ibb.co/b5sTbgKM/Card-Identificacion.png)
 
 ---
 
