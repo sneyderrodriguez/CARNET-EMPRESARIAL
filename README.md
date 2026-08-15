@@ -72,7 +72,8 @@ proyecto/
 
 ## 🔮 Mejoras futuras
 
-- visualizar 1 sola cara de la card a la vez
+- Visualizar 1 sola cara de la card a la vez
+- Aplicar Bootstrap
 
 ---
 
