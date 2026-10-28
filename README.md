@@ -97,7 +97,9 @@ Estas mejoras son propuestas; no forman parte de la versión actual.
 
 ## 📄 Licencia
 
-El archivo ZIP revisado no incluye una licencia explícita. Consulta con el autor antes de reutilizar o redistribuir el código.
+Este proyecto está disponible bajo la licencia **MIT**.
+
+Puedes utilizar, modificar y distribuir el código respetando los términos establecidos en dicha licencia.
 
 ---
 
